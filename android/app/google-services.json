@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842339587333",
+    "firebase_url": "https://authentication-demo-40dd5.firebaseio.com",
+    "project_id": "authentication-demo-40dd5",
+    "storage_bucket": "authentication-demo-40dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842339587333:android:632f1d2f6d2a3ee1a5d36c",
+        "android_client_info": {
+          "package_name": "com.mytask.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842339587333-55vfjhk9lcj684ur096s19cjd1a0481b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDHO4XeQeETYh7unmve6MvbMgxrSnofE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842339587333-55vfjhk9lcj684ur096s19cjd1a0481b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
